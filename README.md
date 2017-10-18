@@ -1,7 +1,3 @@
-# Solution: michaelSEA
-
-**Date:** 2017-10-11
-
 ## Summary
 
 quick Django interview question -- four API endpoints to answer questions about a UFO invasion.
